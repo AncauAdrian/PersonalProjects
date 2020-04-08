@@ -3,7 +3,7 @@ A list of personal projects of mine.
 
 <ul>
   <li>
-    <a href="https://github.com/AncauAdrian/SA-MPtrainer"> 
+    <a href="https://github.com/AncauAdrian/DLLinjector"> 
           Simple dll injector in C++ 
     </a>
   </li>
