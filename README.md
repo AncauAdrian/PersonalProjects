@@ -3,7 +3,7 @@ A list of personal projects of mine.
 
 <ul>
   <li>
-    <a href="https://github.com/AncauAdrian/LOLvirus"> 
+    <a href="https://github.com/AncauAdrian/SA-MPtrainer"> 
           GTA San Andreas Multiplayer (SA-MP) Trainer 
     </a>
   </li>
