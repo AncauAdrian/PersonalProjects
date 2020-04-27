@@ -8,6 +8,11 @@ A list of personal projects of mine.
     </a>
   </li>
   <li>
+    <a href="https://github.com/AncauAdrian/DirectXHook"> 
+          C++ DLL which hooks the Device when injeted into a DirectX application. 
+    </a>
+  </li>
+  <li>
     <a href="https://github.com/AncauAdrian/SA-MPtrainer"> 
           GTA San Andreas Multiplayer (SA-MP) Trainer</a>
   </li>
