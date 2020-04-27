@@ -9,7 +9,7 @@ A list of personal projects of mine.
   </li>
   <li>
     <a href="https://github.com/AncauAdrian/DirectXHook"> 
-          C++ DLL which hooks the Device when injeted into a DirectX application. 
+          DirectX Hook: C++ DLL which hooks the Device when injeted into a DirectX application. 
     </a>
   </li>
   <li>
